@@ -9,11 +9,13 @@ Programa composto pelas funções calculaValorDevido(), calculaParidade() e four
 - fourcc(): Função utilizada para identificar unicamente um tipo de dados
 
 
+
 # Rodando o programa
 
 Para rodar o programa basta compilar o programa com o comando abaixo:
 
 gcc -o projeto3 projeto3.c main.c
+
 
 
 # Autores:
